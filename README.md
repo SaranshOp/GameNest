@@ -14,7 +14,13 @@ GameNest is a React-based learning project. The goal of this project is to creat
 
 ## Media
 
-<!-- Space for video and images to be showcased on the front page -->
+### Screenshots
+
+![Home Page Dark](/assets/dashboard.png)
+![Home Page Dark](/assets/dashboard.png)
+![Home Page Light](assets/light-mode.png)
+![Query State](/assets/query_state_management.png)
+![Game Details](/assets/game_page.png)
 
 # Technichal Details
 
