@@ -6,14 +6,14 @@ import Layout from "./pages/Layout";
 
 const router = createBrowserRouter([
   {
-    path: '/',
+    path: "/",
     element: <Layout />,
     errorElement: <ErrorPage />,
     children: [
       { index: true, element: <HomePage /> },
-      { path: 'games/:slug', element: <GameDetailPage /> }
-    ]
-  }
+      { path: "games/:slug", element: <GameDetailPage /> },
+    ],
+  },
 ]);
 
 export default router;
